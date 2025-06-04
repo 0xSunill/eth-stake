@@ -7,7 +7,7 @@ export default function Home() {
     <div>
 
       <StakingUI />
-      {/* <ConnectButton /> */}
+      
     </div>
   );
 }
